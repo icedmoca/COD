@@ -28,7 +28,7 @@ public class Main extends JavaPlugin {
 
     public String prefix = "§8§l[COD] ";
     public static String adminPrefix = "§e§l[COD-Admin] ";
-    public static final String version = "1.1.5";
+    public static final String version = "1.1.6";
     public ArrayList<Player> WaitingPlayers = new ArrayList<>();
     public ArrayList<Player> PlayingPlayers = new ArrayList<>();
     public ArrayList<Player> nonPlayers = new ArrayList<>();
